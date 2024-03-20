@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+- CS student at the University of Padua
+- Currently working on <a href="https://github.com/orgs/7Last/repositories">7Last</a> and <a href="https://github.com/FabioMeneghini/ProgettoTecWeb">ProgettoTecWeb</a>
+- Hobby: Speedcubing, 🏎️Motorsport, 🎮Gaming
+
+### Learning and Enjoing
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,git,html,js,linux,php,py)](https://github.com/G4utama)
+
+### Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G4utama&show_icons=true&count_private=true&theme=transparent&rank_icon=github)](https://github.com/G4utama)
 
 <!--
 **G4utama/G4utama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
