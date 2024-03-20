@@ -3,7 +3,7 @@
 - Currently working on <a href="https://github.com/orgs/7Last/repositories">7Last</a> and <a href="https://github.com/FabioMeneghini/ProgettoTecWeb">ProgettoTecWeb</a>
 - Hobby: Speedcubing, 🏎️Motorsport, 🎮Gaming
 
-### Learning and Enjoing
+### Learning and Enjoying
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,css,git,html,js,linux,php,py)](https://github.com/G4utama)
 
 ### Stats
