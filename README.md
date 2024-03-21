@@ -4,12 +4,10 @@
 - Hobby: 📗 Manga, ⏱️ Speedcubing, 🎮 Gaming, 🏎️ Motorsport
 
 ##
-### Learning and Enjoying
+### Learning and Using
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,php,js)](https://github.com/G4utama)
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,latex,notion)](https://github.com/G4utama)
-
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://github.com/G4utama)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,latex,linux,ubuntu,windows)](https://github.com/G4utama)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=mysql)](https://github.com/G4utama) -->
 
