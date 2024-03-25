@@ -14,3 +14,9 @@
 ##
 ### Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G4utama&show_icons=true&count_private=true&theme=transparent&rank_icon=github)](https://github.com/G4utama)
+<!--
+##
+### Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4utama&layout=compact)](https://github.com/G4utama)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4utama&layout=donut-vertical)](https://github.com/G4utama)
+-->
