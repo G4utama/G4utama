@@ -1,7 +1,6 @@
 ### Hi there 👋
 - CS student at the University of Padua
-- Currently working on [7Last](https://github.com/orgs/7Last) and [ProgettoTecWeb](https://github.com/FabioMeneghini/ProgettoTecWeb)
-- Hobby: 📗 Manga, ⏱️ Speedcubing, 🎮 Gaming, 🏎️ Motorsport
+- Hobby: ⏱️ Speedcubing, 🎮 Gaming, 📗 Manga, 🏎️ Motorsport
 
 ##
 ### Languages and Tools
