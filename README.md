@@ -15,7 +15,7 @@ Hobby: ⏱️ Speedcubing ([WCA](https://www.worldcubeassociation.org/persons/20
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/G4utama)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-baldo-6a79652bb) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&langs_count=10)](https://github.com/G4utama)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&langs_count=8)](https://github.com/G4utama)
 
 ##
 ### Stats
