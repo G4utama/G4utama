@@ -8,9 +8,9 @@ Hobby: ⏱️ Speedcubing ([WCA](https://www.worldcubeassociation.org/persons/20
 #### OS
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://github.com/G4utama)
 #### Language
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,php,py)](https://github.com/G4utama)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,php,py)](https://github.com/G4utama)
 #### Other
-[![My Skills](https://skillicons.dev/icons?i=bash,git,latex,matlab,postgres,qt,vscode)](https://github.com/G4utama)
+[![My Skills](https://skillicons.dev/icons?i=bash,git,latex,matlab,md,postgres,qt,vscode)](https://github.com/G4utama)
 
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/G4utama)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-baldo-6a79652bb) -->
