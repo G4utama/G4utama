@@ -1,43 +1,55 @@
 ### Hi there!
 I'm Leonardo Baldo, CS student at the University of Padua.
 
-Hobby: ⏱️ Speedcubing ([WCA](https://www.worldcubeassociation.org/persons/2022BALD01)), 🎮 Gaming ([HLTB](https://howlongtobeat.com/user/Gautama)), 📗 Manga ([MAL](https://myanimelist.net/profile/G4utama)), 🏎️ Motorsport
+Hobby:
+<a href="https://www.worldcubeassociation.org/persons/2022BALD01"><img src="https://cdn-icons-png.flaticon.com/64/895/895952.png" style="width:24px; height:24px"></img></a> Speedcubing,
+<a href="https://howlongtobeat.com/user/Gautama"><img src="https://cdn-icons-png.flaticon.com/64/141/141073.png" style="width:24px; height:24px"></img></a> Gaming,
+<a href="https://myanimelist.net/profile/G4utama"><img src="https://cdn-icons-png.flaticon.com/64/9824/9824252.png" style="width:24px; height:24px"></img></a> Manga,
+<a href=""><img src="https://cdn-icons-png.flaticon.com/64/1505/1505502.png" style="width:24px; height:24px"></img></a> Motorsport
 
 ##
 ### Languages and Tools
 #### OS
-[![](https://skillicons.dev/icons?i=windows)](https://en.wikipedia.org/wiki/Microsoft_Windows)
-[![](https://skillicons.dev/icons?i=linux)](https://en.wikipedia.org/wiki/Linux)
-[![](https://skillicons.dev/icons?i=ubuntu)](https://en.wikipedia.org/wiki/Ubuntu)
+<div>
+    <a href="https://en.wikipedia.org/wiki/Windows_10"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Ubuntu"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="width:48px; height:48px"></img></a>
+</div>
 
 #### Language
-[![](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![](https://skillicons.dev/icons?i=java)](https://en.wikipedia.org/wiki/Java_(programming_language))
-[![](https://skillicons.dev/icons?i=py)](https://en.wikipedia.org/wiki/Python_(programming_language))
+<div>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:48px; height:48px"></img></a>
+</div>
+<br>
 
-[![Web](https://github-readme-stats.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&hide=ampl,css,html,javascript,php,qmake,tex)](https://github.com/G4utama) <!-- css, html, javascript, php -->
+[![Web](https://github-readme-stats.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&hide=ampl,css,html,javascript,php,qmake,tex)](https://github.com/G4utama) <!-- asm, c, c++, java, python -->
 
 #### Web
-[![](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
-[![](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
-[![](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
-[![](https://skillicons.dev/icons?i=php)](https://en.wikipedia.org/wiki/PHP)
+<div>
+    <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="width:48px; height:48px"></img></a>
+</div>
+<br>
 
-[![Web](https://github-readme-stats.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&hide=ampl,assembly,c,c%2B%2B,java,python,qmake,tex)](https://github.com/G4utama) <!-- css, html, javascript, php -->
+[![Web](https://github-readme-stats.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&hide=ampl,assembly,c,c%2B%2B,java,python,qmake,tex)](https://github.com/G4utama) <!-- css, html, js, php -->
 
 #### Other
-[![](https://skillicons.dev/icons?i=bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-[![](https://skillicons.dev/icons?i=git)](https://en.wikipedia.org/wiki/Git)
-[![](https://skillicons.dev/icons?i=latex)](https://en.wikipedia.org/wiki/LaTeX)
-[![](https://skillicons.dev/icons?i=matlab)](https://en.wikipedia.org/wiki/MATLAB)
-[![](https://skillicons.dev/icons?i=md)](https://en.wikipedia.org/wiki/Markdown)
-[![](https://skillicons.dev/icons?i=postgres)](https://en.wikipedia.org/wiki/PostgreSQL)
-[![](https://skillicons.dev/icons?i=qt)](https://en.wikipedia.org/wiki/Qt_(software))
-[![](https://skillicons.dev/icons?i=vscode)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
-
-<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/G4utama)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-baldo-6a79652bb) -->
+<div>
+    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width:48px; height:48px"></img></a>
+    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:48px; height:48px"></img></a>
+    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" style="width:48px; height:48px"></img></a>
+    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" style="width:48px; height:48px"></img></a>
+    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="width:48px; height:48px"></img></a>
+    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:48px; height:48px"></img></a>
+    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" style="width:48px; height:48px"></img></a>
+    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="width:48px; height:48px"></img></a>
+</div>
+<br>
 
 ##
 ### Stats
