@@ -18,6 +18,7 @@ Hobby:
 
 #### Language
 <div>
+    <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.icons8.com/color/48/assembly.png" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width:48px; height:48px"></img></a>
@@ -38,16 +39,23 @@ Hobby:
 
 [![Web](https://github-readme-stats.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&hide=ampl,assembly,c,c%2B%2B,java,python,qmake,tex)](https://github.com/G4utama) <!-- css, html, js, php -->
 
+
+#### Framework
+<div>
+    <a href="https://en.wikipedia.org/wiki/Spring_Framework"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Qt_(software)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" style="width:48px; height:48px"></img></a>
+</div>
+<br>
+
 #### Other
 <div>
-    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width:48px; height:48px"></img></a>
-    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:48px; height:48px"></img></a>
-    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" style="width:48px; height:48px"></img></a>
-    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" style="width:48px; height:48px"></img></a>
-    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="width:48px; height:48px"></img></a>
-    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:48px; height:48px"></img></a>
-    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" style="width:48px; height:48px"></img></a>
-    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/LaTeX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/MATLAB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="width:48px; height:48px"></img></a>
 </div>
 <br>
 
