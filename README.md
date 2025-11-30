@@ -9,12 +9,6 @@ Hobby:
 
 ##
 ### Languages and Tools
-#### OS
-<div>
-    <a href="https://en.wikipedia.org/wiki/Windows_10"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="width:48px; height:48px"></img></a>
-    <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width:48px; height:48px"></img></a>
-    <a href="https://en.wikipedia.org/wiki/Ubuntu"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="width:48px; height:48px"></img></a>
-</div>
 
 #### Language
 <div>
@@ -47,10 +41,19 @@ Hobby:
 </div>
 <br>
 
+#### OS
+<div>
+    <a href="https://en.wikipedia.org/wiki/Windows_10"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Ubuntu"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="width:48px; height:48px"></img></a>
+</div>
+
 #### Other
 <div>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Docker_(software)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:48px; height:48px"></img></a>
+    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/LaTeX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/MATLAB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="width:48px; height:48px"></img></a>
