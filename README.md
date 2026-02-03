@@ -20,7 +20,7 @@ Hobby:
 </div>
 <br>
 
-[![Web](https://github-readme-stats.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&hide=ampl,css,html,javascript,php,qmake,tex)](https://github.com/G4utama) <!-- asm, c, c++, java, python -->
+[![Web](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&hide=ampl,css,html,javascript,php,qmake,tex)](https://github.com/G4utama) <!-- asm, bf, c, c++, java, python -->
 
 #### Web
 <div>
@@ -31,7 +31,7 @@ Hobby:
 </div>
 <br>
 
-[![Web](https://github-readme-stats.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&hide=ampl,assembly,c,c%2B%2B,java,python,qmake,tex)](https://github.com/G4utama) <!-- css, html, js, php -->
+[![Web](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&hide=ampl,assembly,brainfuck,c,c%2B%2B,java,python,qmake,tex)](https://github.com/G4utama) <!-- css, html, js, php -->
 
 
 #### Framework
@@ -43,9 +43,11 @@ Hobby:
 
 #### OS
 <div>
-    <a href="https://en.wikipedia.org/wiki/Windows_10"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/Ubuntu"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Pop!_OS"><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Pop%21_OS_Icon.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Windows_7"><img src="https://cdn-icons-png.flaticon.com/128/232/232411.png" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/Windows_10"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="width:48px; height:48px"></img></a>
 </div>
 
 #### Other
@@ -64,6 +66,6 @@ Hobby:
 
 ##
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&langs_count=10)](https://github.com/G4utama)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&langs_count=12)](https://github.com/G4utama)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G4utama&show_icons=true&count_private=true&theme=transparent&rank_icon=github)](https://github.com/G4utama)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=G4utama&show_icons=true&count_private=true&theme=transparent&rank_icon=github)](https://github.com/G4utama)
