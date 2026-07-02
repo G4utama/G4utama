@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --background: rgba(0, 0, 0, 0.9);
+    --darkGray: rgba(255, 255, 255, 0.25);
+    --lightGray: rgba(255, 255, 255, 0.75);
+}
+
+html{
+    font-family: "Courier New", monospace;
+}
+
+body{
+    background-color: var(--background);
+    color: var(--lightGray);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 2em;
+    text-align: center;
+}
+
+#about, #university, #projects, #sites{
+    max-width: 1080px;
+    margin: auto;
+}
+
+hr{
+    width: 100%;
+    border: none;
+    border-top: 3px solid var(--lightGray);
+    margin: 2em 0;
+}
+
+h1, h2, h3, h4, p, ul, li{
+    margin: 0.5em;
+    text-align: left;
+}
+
+h1, h2, #sites h3{
+    text-align: center;
+}
+
+ul{
+    list-style-type: circle;
+    /* max-width: 720px; */
+    margin: 1em auto;
+}
+
+li{
+    text-align: justify;
+}
+
+.listTitle{
+    font-size: 1.2em;
+    list-style-type: none;
+    font-weight: bold;
+    margin-top: 2em;
+    text-align: left;
+}
+
+.listFLex{
+    display: flex;
+    align-items: center;
+    margin-left: 1em;
+}
+
+/* .hide{
+    display: none;
+    margin-left: 1em;
+    padding: 0.2em;
+    border: 1px solid yellow;
+    color: yellow;
+    border-radius: 5px;
+}
+
+.tooltip:hover + .hide{
+    display: block;
+} */
+
+summary{
+    margin-top: 1em;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: left;
+}
+
+a{
+    text-decoration: underline;
+    color: var(--lightGray);
+}
+
+a:hover{
+    text-decoration: underline magenta;
+    color: magenta;
+}
+
+img{
+    max-width: 64px;
+    max-height: 64px;
+    margin: 0.5em;
+}
+
+/* Projects */
+
+/* #projects li, #hobby li{
+    text-align: justify;
+} */
+
+#projects a{
+    font-weight: bold;
+}
+
+#projects img, #university img{
+    width: 32px;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+.card{
+    text-align: left;
+    border: 2px solid var(--lightGray);
+    border-radius: 5px;
+    padding: 1em;
+    margin: 1em;
+}
+
+.cardFlex{
+    display: flex;
+    align-items: center;
+}
+
+/* Sites */
+
+#sites div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#sites a{
+    border: 2px solid var(--lightGray);
+    border-radius: 5px;
+    padding: 0.5em;
+    margin: 0.5em;
+    text-decoration: none;
+    text-align: center;
+    flex-direction: column;
+    min-width: 128px;
+    max-width: 256px;
+}
+
+#sites a:hover{
+    background-color: var(--darkGray);
+}
+
+#sites a:active{
+    background-color: var(--lightGray);
+}
+
+/* Contact */
+
+#contact img{
+    width: 32px;
+}
