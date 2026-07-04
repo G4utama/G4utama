@@ -158,6 +158,7 @@ img{
 
 #sites a:hover{
     background-color: var(--darkGray);
+    color: var(--lightGray)
 }
 
 #sites a:active{
