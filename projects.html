@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Projects — Leonardo Baldo</title>
+	<link rel="icon" type="image/png" href="assets/G4utama.png">
+	<link rel="stylesheet" href="style/style.css">
+	<link rel="stylesheet" type="text/css" href="style/mobile.css" media="screen and (max-width: 720px)">
+</head>
+<body data-page="projects">
+	<header class="site-header">
+		<div class="wrap">
+		<div class="logo"><img src="assets/G4utama.png"></div>
+		<nav class="site-nav">
+			<ul>
+				<li><a href="about.html" data-page="about">About</a></li>
+				<li><a href="university.html" data-page="university">University</a></li>
+				<li><a href="projects.html" data-page="projects">Projects</a></li>
+				<li><a href="sites.html" data-page="sites">Sites</a></li>
+			</ul>
+		</nav>
+		</div>
+	</header>
+
+	<main>
+		<div class="wrap">
+		<a class="back-link" href="index.html"><- home</a>
+		<div class="page-head">
+			<img class="invert" src="https://img.icons8.com/?size=100&id=2778&format=png&color=000000">
+			<h1>Projects</h1>
+			<p>Things I've built, grouped by type, with tools used and source code.</p>
+		</div>
+		<div id="projects-root"></div>
+		</div>
+	</main>
+
+	<footer class="site-footer">
+		<div class="wrap">© <span id="year"></span> Leonardo Baldo</div>
+	</footer>
+
+	<script src="js/common.js"></script>
+	<script src="js/projects.js"></script>
+	<script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+</body>
+</html>

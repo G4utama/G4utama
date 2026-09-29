@@ -1,0 +1,152 @@
+{
+	"categories": [
+		{
+			"name": "Thesis",
+			"projects": [
+				{
+					"title": "Middleware Spring",
+					"description": "Middleware basato su Spring per l'Arricchimento di Dati.",
+					"tools": [
+						{
+							"name": "docker",
+							"url": "https://en.wikipedia.org/wiki/Docker_(software)"
+						},
+						{
+							"name": "java",
+							"url": "https://en.wikipedia.org/wiki/Java"
+						},
+						{
+							"name": "apachekafka",
+							"url": "https://en.wikipedia.org/wiki/Apache_Kafka"
+						},
+						{
+							"name": "maven",
+							"url": "https://en.wikipedia.org/wiki/Apache_Maven"
+						},
+						{
+							"name": "postgresql",
+							"url": "https://en.wikipedia.org/wiki/PostgreSQL"
+						},
+						{
+							"name": "spring",
+							"url": "https://en.wikipedia.org/wiki/Spring_Framework"
+						}
+					],
+					"repo": "https://github.com/G4utama/EnrichmentMiddleware"
+				},
+				{
+					"title": "Thesis",
+					"description": "Bachelor's thesis in Computer Science at the University of Padua.",
+					"tools": [
+						{
+							"name": "latex",
+							"url": "https://en.wikipedia.org/wiki/LaTeX"
+						}
+					],
+					"repo": "https://github.com/G4utama/Thesis"
+				}
+			]
+		},
+		{
+			"name": "University",
+			"projects": [
+				{
+					"title": "DragonBallQ",
+					"description": "Project for the Object Oriented Programming course at the University of Padua. Simple video game inspired by the Dragon Ball series.",
+					"tools": [
+						{
+							"name": "cplusplus",
+							"url": "https://en.wikipedia.org/wiki/C%2B%2B"
+						},
+						{
+							"name": "qt",
+							"url": "https://en.wikipedia.org/wiki/Qt_(software)"
+						}
+					],
+					"repo": "https://github.com/G4utama/DragonBallQ"
+				},
+				{
+					"title": "BookClub",
+					"description": "University Team Project for the Web Technologies course at the University of Padua.",
+					"tools": [
+						{
+							"name": "css3",
+							"url": "https://en.wikipedia.org/wiki/CSS"
+						},
+						{
+							"name": "html5",
+							"url": "https://en.wikipedia.org/wiki/HTML"
+						},
+						{
+							"name": "javascript",
+							"url": "https://en.wikipedia.org/wiki/JavaScript"
+						},
+						{
+							"name": "php",
+							"url": "https://en.wikipedia.org/wiki/PHP"
+						}
+					],
+					"repo": "https://github.com/FabioMeneghini/ProgettoTecWeb"
+				}
+			]
+		},
+		{
+			"name": "University Docs",
+			"projects": [
+				{
+					"title": "ASD",
+					"description": "Algoritmi e Strutture Dati - Summary.",
+					"tools": [
+						{
+							"name": "latex",
+							"url": "https://en.wikipedia.org/wiki/LaTeX"
+						}
+					],
+					"repo": "https://github.com/G4utama/ASD"
+				},
+				{
+					"title": "IML",
+					"description": "Introduction to Machine Learning - Summary and Exercises.",
+					"tools": [
+						{
+							"name": "latex",
+							"url": "https://en.wikipedia.org/wiki/LaTeX"
+						},
+						{
+							"name": "python",
+							"url": "https://en.wikipedia.org/wiki/Python"
+						}
+					],
+					"repo": "https://github.com/G4utama/IML"
+				},
+				{
+					"title": "MTSS",
+					"description": "Metodi e Tecnologie per lo Sviluppo Software - Summary.",
+					"tools": [
+						{
+							"name": "latex",
+							"url": "https://en.wikipedia.org/wiki/LaTeX"
+						}
+					],
+					"repo": "https://github.com/G4utama/MTSS"
+				}
+			]
+		},
+		{
+			"name": "Other",
+			"projects": [
+				{
+					"title": "HumanResourceMachine",
+					"description": "Human Resource Machine game solutions and relative assembly program.",
+					"tools": [
+						{
+							"name": "assembly",
+							"url": "https://en.wikipedia.org/wiki/Assembly_language"
+						}
+					],
+					"repo": "https://github.com/G4utama/HumanResourceMachine"
+				}
+			]
+		}
+	]
+}

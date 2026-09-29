@@ -1,0 +1,232 @@
+{
+	"name": "Leonardo Baldo",
+	"role": "Computer Scientist",
+	"photo": "assets/profile.jpg",
+	"contacts": [
+		{
+			"label": "baldoleonardo01@gmail.com",
+			"url": "mailto:baldoleonardo01@gmail.com",
+			"icon": "mail"
+		},
+		{
+			"label": "github.com/G4utama",
+			"url": "https://github.com/G4utama",
+			"icon": "github"
+		},
+		{
+			"label": "linkedin.com/in/leonardo-baldo-6a79652bb",
+			"url": "https://www.linkedin.com/in/leonardo-baldo-6a79652bb/",
+			"icon": "linkedin"
+		}
+	],
+	"intro": "Hello World!",
+	"paragraphs": [
+		"I'm Leonardo Baldo — a Computer Scientist with a Bachelor's Degree in Computer Science at University of Padua.",
+		"I like everything that involves logic and problem-solving.",
+		"I always enjoy learning new things.",
+		"FOSS enjoyer."
+	],
+	"hobbies": [
+		{
+			"name": "Speedcubing",
+			"url": "https://www.worldcubeassociation.org/persons/2022BALD01",
+			"icon": "https://assets.worldcubeassociation.org/assets/9283fe8/packs/static/components/StaticPages/LogoImages/2%20Negative%20Primary/WCA%20Logo-fc55f4567d8fdf5525ef.svg"
+		},
+		{
+			"name": "Gaming",
+			"url": "https://howlongtobeat.com/user/Gautama",
+			"icon": "https://cdn.brandfetch.io/idcFK1G0Xp/w/57/h/57/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B"
+		},
+		{
+			"name": "Manga",
+			"url": "https://myanimelist.net/profile/G4utama",
+			"icon": "https://cdn.brandfetch.io/idi7gXxt9X/w/225/h/225/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B"
+		},
+		{
+			"name": "Motorsport",
+			"url": "https://g4utama.github.io/monoposto",
+			"icon": "assets/Monoposto.png"
+		}
+	],
+	"skills": {
+		"Languages": [
+			{
+				"name": "assembly",
+				"url": "https://en.wikipedia.org/wiki/Assembly_language"
+			},
+			{
+				"name": "c",
+				"url": "https://en.wikipedia.org/wiki/C_(programming_language)"
+			},
+			{
+				"name": "cplusplus",
+				"url": "https://en.wikipedia.org/wiki/C%2B%2B"
+			},
+			{
+				"name": "java",
+				"url": "https://en.wikipedia.org/wiki/Java_(programming_language)"
+			},
+			{
+				"name": "python",
+				"url": "https://en.wikipedia.org/wiki/Python_(programming_language)"
+			}
+		],
+		"Web": [
+			{
+				"name": "css3",
+				"url": "https://en.wikipedia.org/wiki/CSS"
+			},
+			{
+				"name": "html5",
+				"url": "https://en.wikipedia.org/wiki/HTML"
+			},
+			{
+				"name": "javascript",
+				"url": "https://en.wikipedia.org/wiki/JavaScript"
+			},
+			{
+				"name": "php",
+				"url": "https://en.wikipedia.org/wiki/PHP"
+			}
+		],
+		"Frameworks": [
+			{
+				"name": "spring",
+				"url": "https://en.wikipedia.org/wiki/Spring_Framework"
+			},
+			{
+				"name": "qt",
+				"url": "https://en.wikipedia.org/wiki/Qt_(software)"
+			}
+		],
+		"Cyber": [
+			{
+				"name": "ida",
+				"url": "https://en.wikipedia.org/wiki/Interactive_Disassembler"
+			},
+			{
+				"name": "wireshark",
+				"url": "https://en.wikipedia.org/wiki/Wireshark"
+			}
+		],
+		"Math": [
+			{
+				"name": "ampl",
+				"url": "https://en.wikipedia.org/wiki/AMPL"
+			},
+			{
+				"name": "matlab",
+				"url": "https://en.wikipedia.org/wiki/MATLAB"
+			}
+		],
+		"OS": [
+			{
+				"name": "linux",
+				"url": "https://en.wikipedia.org/wiki/Linux"
+			},
+			{
+				"name": "pop",
+				"url": "https://en.wikipedia.org/wiki/Pop!_OS"
+			},
+			{
+				"name": "ubuntu",
+				"url": "https://en.wikipedia.org/wiki/Ubuntu"
+			},
+			{
+				"name": "windows7",
+				"url": "https://en.wikipedia.org/wiki/Windows_7"
+			},
+			{
+				"name": "windows10",
+				"url": "https://en.wikipedia.org/wiki/Windows_10"
+			},
+			{
+				"name": "windows11",
+				"url": "https://en.wikipedia.org/wiki/Windows_11"
+			}
+		],
+		"Tools & Others": [
+			{
+				"name": "apachekafka",
+				"url": "https://en.wikipedia.org/wiki/Apache_Kafka"
+			},
+			{
+				"name": "bash",
+				"url": "https://en.wikipedia.org/wiki/Bash_(Unix_shell)"
+			},
+			{
+				"name": "docker",
+				"url": "https://en.wikipedia.org/wiki/Docker_(software)"
+			},
+			{
+				"name": "git",
+				"url": "https://en.wikipedia.org/wiki/Git"
+			},
+			{
+				"name": "github",
+				"url": "https://en.wikipedia.org/wiki/GitHub"
+			},
+			{
+				"name": "latex",
+				"url": "https://en.wikipedia.org/wiki/LaTeX"
+			},
+			{
+				"name": "markdown",
+				"url": "https://en.wikipedia.org/wiki/Markdown"
+			},
+			{
+				"name": "maven",
+				"url": "https://en.wikipedia.org/wiki/Apache_Maven"
+			},
+			{
+				"name": "postgresql",
+				"url": "https://en.wikipedia.org/wiki/PostgreSQL"
+			},
+			{
+				"name": "vscode",
+				"url": "https://en.wikipedia.org/wiki/Visual_Studio_Code"
+			}
+		]
+	},
+	"timeline": [
+		{
+			"from": 2024,
+			"fromMonth": 10,
+			"to": 2024,
+			"toMonth": 12,
+			"title": "Curricular Internship for University of Padua",
+			"place": "Sync Lab S.r.l. - Verona"
+		},
+		{
+			"from": 2021,
+			"to": 2026,
+			"title": "Bachelor's Degree in Computer Science",
+			"place": "Università di Padova - Padova"
+		},
+		{
+			"from": 2018,
+			"to": 2020,
+			"title": "Olimpiadi Italiane di Informatica (O.I.I.)",
+			"place": "Liceo Statale Galileo Galilei - Verona"
+		},
+		{
+			"from": 2018,
+			"to": 2020,
+			"title": "Olimpiadi della Matematica",
+			"place": "Liceo Statale Galileo Galilei - Verona"
+		},
+		{
+			"from": 2016,
+			"to": 2018,
+			"title": "Olimpiadi di Problem Solving (O.P.S.)",
+			"place": "Liceo Statale Galileo Galilei - Verona"
+		},
+		{
+			"from": 2015,
+			"to": 2021,
+			"title": "High School Diploma in Applied Sciences",
+			"place": "Liceo Statale Galileo Galilei - Verona"
+		}
+	]
+
+}

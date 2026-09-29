@@ -1,0 +1,200 @@
+{
+	"computerScience": [
+		{
+			"name": "Algorithms and Data Structures",
+			"nameIta": "Algoritmi e Strutture Dati",
+			"skills": [],
+			"project": { "title": "Doc", "url": "../projects.html" }
+		},
+		{
+			"name": "Computer Architecture",
+			"nameIta": "Architettura degli Elaboratori",
+			"skills": [],
+			"project": null
+		},
+		{
+			"name": "Automata and Formal Languages",
+			"nameIta": "Automi e Linguaggi Formali",
+			"skills": [],
+			"project": null
+		},
+		{
+			"name": "Database",
+			"nameIta": "Basi di Dati",
+			"skills": [
+				{
+					"name": "postgresql",
+					"url": "https://en.wikipedia.org/wiki/PostgreSQL"
+				}
+			],
+			"project": { "title": "CinemaDB", "url": "https://github.com/G4utama/CinemaDB" }
+		},
+		{
+			"name": "Cybersecurity: Principles and Practices",
+			"nameIta": "Cybersecurity",
+			"skills": [
+				{
+					"name": "ida",
+					"url": "https://en.wikipedia.org/wiki/Interactive_Disassembler"
+				},
+				{
+					"name": "python",
+					"url": "https://en.wikipedia.org/wiki/Python_(programming_language)"
+				},
+				{
+					"name": "wireshark",
+					"url": "https://en.wikipedia.org/wiki/Wireshark"
+				}
+			],
+			"project": null
+		},
+		{
+			"name": "Software Engineering",
+			"nameIta": "Ingegneria del Software",
+			"skills": [],
+			"project": null
+		},
+		{
+			"name": "Introduction to Machine Learning",
+			"nameIta": "Introduzione all'Apprendimento Automatico",
+			"skills": [
+				{
+					"name": "python",
+					"url": "https://en.wikipedia.org/wiki/Python_(programming_language)"
+				}
+			],
+			"project": { "title": "Doc", "url": "../projects.html" }
+		},
+		{
+			"name": "Methods and Technologies for Software Development",
+			"nameIta": "Metodi e Tecnologie per lo Sviluppo Software",
+			"skills": [
+				{
+					"name": "git",
+					"url": "https://en.wikipedia.org/wiki/Git"
+				},
+				{
+					"name": "github",
+					"url": "https://en.wikipedia.org/wiki/GitHub"
+				}
+			],
+			"project": { "title": "Doc", "url": "../projects.html" }
+		},
+		{
+			"name": "Programming Paradigms",
+			"nameIta": "Paradigmi di Programmazione",
+			"skills": [
+				{
+					"name": "java",
+					"url": "https://en.wikipedia.org/wiki/Java_(programming_language)"
+				}
+			],
+			"project": null
+		},
+		{
+			"name": "Programming",
+			"nameIta": "Programmazione",
+			"skills": [
+				{
+					"name": "c",
+					"url": "https://en.wikipedia.org/wiki/C_(programming_language)"
+				}
+			],
+			"project": null
+		},
+		{
+			"name": "Object-Oriented Programming",
+			"nameIta": "Programmazione ad Oggetti",
+			"skills": [
+				{
+					"name": "cplusplus",
+					"url": "https://en.wikipedia.org/wiki/C%2B%2B"
+				}
+			],
+			"project": { "title": "DragonBallQ", "url": "https://github.com/G4utama/DragonBallQ" }
+		},
+		{
+			"name": "Computer Networks",
+			"nameIta": "Reti di Calcolatori",
+			"skills": [],
+			"project": null
+		},
+		{
+			"name": "Operating Systems",
+			"nameIta": "Sistemi Operativi",
+			"skills": [],
+			"project": null
+		},
+		{
+			"name": "Web Technologies",
+			"nameIta": "Tecnologie Web",
+			"skills": [
+				{
+					"name": "css3",
+					"url": "https://en.wikipedia.org/wiki/CSS"
+				},
+				{
+					"name": "html5",
+					"url": "https://en.wikipedia.org/wiki/HTML"
+				},
+				{
+					"name": "javascript",
+					"url": "https://en.wikipedia.org/wiki/JavaScript"
+				},
+				{
+					"name": "php",
+					"url": "https://en.wikipedia.org/wiki/PHP"
+				}
+			],
+			"project": { "title": "BookClub", "url": "https://github.com/FabioMeneghini/ProgettoTecWeb" }
+		}
+	],
+	"mathematics": [
+		{
+			"name": "Algebra and Discrete Mathematics",
+			"nameIta": "Algebra e Matematica Discreta",
+			"skills": [],
+			"project": null
+		},
+		{
+			"name": "Mathematical Analysis",
+			"nameIta": "Analisi Matematica",
+			"skills": [],
+			"project": null
+		},
+		{
+			"name": "Numerical Analysis",
+			"nameIta": "Calcolo Numerico",
+			"skills": [
+				{
+					"name": "matlab",
+					"url": "https://en.wikipedia.org/wiki/MATLAB"
+				}
+			],
+			"project": null
+		},
+		{
+			"name": "Logic",
+			"nameIta": "Logica",
+			"skills": [],
+			"project": null
+		},
+		{
+			"name": "Probability and Statistics",
+			"nameIta": "Probabilità e Statistica",
+			"skills": [],
+			"project": null
+		},
+		{
+			"name": "Operations Research",
+			"nameIta": "Ricerca Operativa",
+			"skills": [
+				{
+					"name": "ampl",
+					"url": "https://en.wikipedia.org/wiki/AMPL"
+				}
+			],
+			"project": null
+		}
+	]
+}

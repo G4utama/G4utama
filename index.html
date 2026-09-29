@@ -1,25 +1,68 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>G4utama</title>
-    <link rel="icon" type="image/png" href="assets/G4utama.png">
-    <link rel="stylesheet" type="text/css" href="style/style.css">
-    <link rel="stylesheet" type="text/css" href="style/mobile.css" media="screen and (max-width: 1080px)">
-    <script src="script/script.js"></script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Portfolio - Leonardo Baldo</title>
+	<link rel="icon" type="image/png" href="assets/G4utama.png">
+	<link rel="stylesheet" href="style/style.css">
+	<link rel="stylesheet" type="text/css" href="style/mobile.css" media="screen and (max-width: 720px)">
 </head>
-<body>
-    <h1>G4utama</h1>
-    <hr>
-    <div id="about"></div>
-    <div id="university"></div>  
-    <div id="projects"></div>
-    <div id="sites"></div>
-    <hr>
-    <h2>Contact</h2>
-    <div id="contact">
-        <a href="https://github.com/G4utama"><img class="invert" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"></a>
-        <a href="https://www.linkedin.com/in/leonardo-baldo-6a79652bb/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
-        <a href="https://www.worldcubeassociation.org/persons/2022BALD01"><img src="https://assets.worldcubeassociation.org/assets/66efd68/packs/static/react_on_rails_components/StaticPages/LogoImages/2%20Negative%20Primary/WCA%20Logo-fc55f4567d8fdf5525ef.svg"></a>
-    </div>
+<body data-page="home">
+	<header class="site-header">
+		<div class="wrap">
+		<div class="logo"><img src="assets/G4utama.png"></div>
+		<nav class="site-nav">
+			<ul>
+				<li><a href="about.html" data-page="about">About</a></li>
+				<li><a href="university.html" data-page="university">University</a></li>
+				<li><a href="projects.html" data-page="projects">Projects</a></li>
+				<li><a href="sites.html" data-page="sites">Sites</a></li>
+			</ul>
+		</nav>
+		</div>
+	</header>
+
+	<main>
+		<div class="wrap">
+		<section class="hero">
+			<h1>Leonardo Baldo</h1>
+			<p>Computer Scientist with a Bachelor's Degree in Computer Science at University of Padua. This is where I keep what I've studied and what I've built.</p>
+		</section>
+
+		<div class="card-grid">
+			<a class="card" href="about.html">
+			<img class="logo invert" src="https://img.icons8.com/?size=100&id=111473&format=png&color=000000">
+			<h2>About</h2>
+			<p>Who I am, hobbies, skills, timeline and contacts.</p>
+			<span class="go">enter -></span>
+			</a>
+			<a class="card" href="university.html">
+			<img class="logo invert" src="https://img.icons8.com/?size=100&id=36312&format=png&color=000000">
+			<h2>University</h2>
+			<p>Courses from my Bachelor's Degree in Computer Science, with the skills each one covered and a link to the related project.</p>
+			<span class="go">enter -></span>
+			</a>
+			<a class="card" href="projects.html">
+			<img class="logo invert" src="https://img.icons8.com/?size=100&id=2778&format=png&color=000000">
+			<h2>Projects</h2>
+			<p>Things I've built, grouped by type, with tools used and source code.</p>
+			<span class="go">enter -></span>
+			</a>
+			<a class="card" href="sites.html">
+			<img class="logo invert" src="https://img.icons8.com/?size=100&id=53372&format=png&color=000000">
+			<h2>Sites</h2>
+			<p>Other websites I've made.</p>
+			<span class="go">enter -></span>
+			</a>
+		</div>
+		</div>
+	</main>
+
+	<footer class="site-footer">
+		<div class="wrap">© <span id="year"></span> Leonardo Baldo</div>
+	</footer>
+
+	<script>document.getElementById("year").textContent = new Date().getFullYear();</script>
 </body>
 </html>

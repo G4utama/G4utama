@@ -1,11 +1,24 @@
-html{
-    font-size: 1.5em;
+.card-grid{
+	grid-template-columns: 1fr;
 }
 
-/* img{
-    width: 128px;
-} */
-
-#contact img{
-    width: 48px;
+.about-layout{
+	grid-template-columns: 1fr;
 }
+
+.about-photo{
+	width: 120px;
+}
+
+.course{ 
+	grid-template-columns: 1fr;
+}
+
+.course-skills{
+	justify-self: start;
+}
+
+.site-grid{
+	grid-template-columns: 1fr 1fr;
+}
+

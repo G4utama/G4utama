@@ -1,0 +1,24 @@
+{
+	"sites": [
+		{
+			"title": "Cubing",
+			"image": "assets/Cubing.png",
+			"url": "https://g4utama.github.io/cubing/"
+		},
+			{
+			"title": "myCubeTimes",
+			"image": "assets/Time.png",
+			"url": "https://g4utama.github.io/myCubeTimes/"
+		},
+		{
+			"title": "Monoposto",
+			"image": "assets/Monoposto.png",
+			"url": "https://g4utama.github.io/monoposto/"
+		},
+		{
+			"title": "Geography",
+			"image": "assets/Geography.png",
+			"url": "https://g4utama.github.io/geography/"
+		}
+	]
+}
