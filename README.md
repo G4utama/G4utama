@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Hi there!
 I'm Leonardo Baldo, CS student at the University of Padua.
 
@@ -68,3 +69,4 @@ Hobby:
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&langs_count=12)](https://github.com/G4utama)
 
 [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=G4utama&show_icons=true&count_private=true&theme=transparent&rank_icon=github)](https://github.com/G4utama)
+=======
