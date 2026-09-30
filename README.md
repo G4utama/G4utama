@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Hi there!
 I'm Leonardo Baldo, CS student at the University of Padua.
 
@@ -55,7 +54,7 @@ Hobby:
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/Docker_(software)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:48px; height:48px"></img></a>
-    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width:48px; height:48px"></img></a>
+    <a href="https://en.wikipedia.org/wiki/GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/LaTeX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/MATLAB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" style="width:48px; height:48px"></img></a>
     <a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="width:48px; height:48px"></img></a>
@@ -69,4 +68,3 @@ Hobby:
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=G4utama&layout=compact&theme=transparent&langs_count=12)](https://github.com/G4utama)
 
 [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=G4utama&show_icons=true&count_private=true&theme=transparent&rank_icon=github)](https://github.com/G4utama)
-=======
